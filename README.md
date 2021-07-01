@@ -1,4 +1,4 @@
 # Spring MVC application 
-Pattern DAO (JDBC-Template) + PostgresQL|
+JDBC-Template | PostgresQL|
 Form validation |
 View - Thymeleaf |
